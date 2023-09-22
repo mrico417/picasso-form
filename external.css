@@ -9,7 +9,7 @@
 }
 
 /* Desktop 1680 X 1050*/
-@media(max-width: 1680px){
+@media(max-width: 2560px){
     body {
         z-index: auto;
         display: flex;
